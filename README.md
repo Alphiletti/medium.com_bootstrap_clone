@@ -1,3 +1,3 @@
 ##Medium Clone
 
-![Medium](\images\Screenshot_9.png)
+![Medium](images/Screenshot_9.png)
